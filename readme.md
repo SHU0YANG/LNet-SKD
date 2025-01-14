@@ -6,15 +6,15 @@ Shuo Yang, Xinran Zheng, Zhengzhuo Xu, and Xingjun Wang
 
 ## Usage
 
-``
+```
 python main.py --input_size 40 --num_classes 5
-``
+```
 
 ## Citation
 
 If you find this code useful in your research, please cite:
 
-``
+```
 @inproceedings{yang2023lightweight,
   title={A Lightweight Approach for Network Intrusion Detection based on Self-Knowledge Distillation},
   author={Yang, Shuo and Zheng, Xinran and Xu, Zhengzhuo and Wang, Xingjun},
@@ -23,4 +23,4 @@ If you find this code useful in your research, please cite:
   year={2023},
   organization={IEEE}
 }
-``
+```
